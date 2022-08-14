@@ -6,6 +6,6 @@ int main()
     cin>>a;
     cin>>b;
     int sum=a+b;
-    cout<<sum;
-    
+    cout<<" the number of :"<<sum;
+
 }
